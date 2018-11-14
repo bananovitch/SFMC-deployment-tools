@@ -1,0 +1,6 @@
+accessConfig = {
+    "clientId":"XXXXXXXXXXXXXXXXXXXXXXXX",
+    "clientSecret":"XXXXXXXXXXXXXXXXXXXXXX",
+    "authURL":"XXXXXXXXXXXXXXXXXXXXXXXX",
+    "restBaseURL":"XXXXXXXXXXXXXXXXXXXXXXXX"
+}
